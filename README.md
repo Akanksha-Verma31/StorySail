@@ -5,17 +5,17 @@ The Story Sail app is a mobile application built using Expo and React Native. It
 
 
 ## Screenshots
-![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(1).jpeg)  ![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(2).jpeg)
+![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(1).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(2).jpeg)
 
-![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(3).jpeg)  ![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(4).jpeg)
+![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(3).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(4).jpeg)
 
-![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(5).jpeg)  ![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(6).jpeg)
+![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(5).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(6).jpeg)
 
-![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(7).jpeg)  ![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(8).jpeg)
+![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(7).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(8).jpeg)
 
-![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(9).jpeg)  ![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(10).jpeg)
+![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(9).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(10).jpeg)
 
-![](https://github.com/Akanksha-Verma31/task-management/blob/master/screenshots/ss1(11).jpeg)
+![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(11).jpeg)
 
 
 
