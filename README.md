@@ -5,17 +5,20 @@ The Story Sail app is a mobile application built using Expo and React Native. It
 
 
 ## Screenshots
-![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(1).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(2).jpeg)
 
-![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(3).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(4).jpeg)
+<img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(1).jpeg" width="200" alt="Screenshot 1" />  <img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(2).jpeg" width="200" alt="Screenshot 2" />
 
-![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(5).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(6).jpeg)
+<img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(3).jpeg" width="200" alt="Screenshot 3" />  <img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(4).jpeg" width="200" alt="Screenshot 4" />
 
-![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(7).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(8).jpeg)
+<img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(5).jpeg" width="200" alt="Screenshot 5" />  <img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(6).jpeg" width="200" alt="Screenshot 6" />
 
-![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(9).jpeg)  ![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(10).jpeg)
+<img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(7).jpeg" width="200" alt="Screenshot 7" />  <img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(8).jpeg" width="200" alt="Screenshot 8" />
 
-![](https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(11).jpeg)
+<img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(9).jpeg" width="200" alt="Screenshot 9" />  <img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(10).jpeg" width="200" alt="Screenshot 10" />
+
+<img src="https://github.com/Akanksha-Verma31/StorySail/blob/main/screenshots/ss1(11).jpeg" width="200" alt="Screenshot 11" />
+
+
 
 
 
